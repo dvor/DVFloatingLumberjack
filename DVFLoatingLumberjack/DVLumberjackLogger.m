@@ -7,7 +7,7 @@
 //
 
 #import "DVLumberjackLogger.h"
-#import "DVFloatingWindow.h"
+#import <DVFloatingWindow/DVFloatingWindow.h>
 
 @implementation DVLumberjackLogger
 
