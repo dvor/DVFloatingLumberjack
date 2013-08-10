@@ -23,7 +23,8 @@
     }
 
     if (logMsg) {
-        DVLog(logMsg);
+        [[DVFloatingWindow sharedInstance] loggerLogToLogger:DV_FLOATING_WINDOW_DEFAULT_LOGGER_KEY
+                                                         log:logMsg];
     }
 }
 
