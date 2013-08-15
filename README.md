@@ -34,3 +34,7 @@ DVLumberjackLogger *dvLumberjackLogger = [DVLumberjackLogger new];
 # License
 
 DVFloatingLumberjack is available under the MIT license. See the [LICENSE](LICENSE.txt) file for more info.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dvor/dvfloatinglumberjack/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
