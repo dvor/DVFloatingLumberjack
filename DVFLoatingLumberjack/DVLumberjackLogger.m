@@ -11,7 +11,11 @@
 
 @interface DVLumberjackLogger()
 
+#if OS_OBJECT_USE_OBJC
 @property (strong, nonatomic) dispatch_queue_t queue;
+#else
+@property (assign, nonatomic) dispatch_queue_t queue;
+#endif
 
 /**
  * Dictionary with NSMutableSets with DVFloatingWindow's logger keys. CocoaLumberjack's
