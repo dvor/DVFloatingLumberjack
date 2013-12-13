@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DVFloatingLumberjack"
-  s.version      = "0.2"
+  s.version      = "0.2.1"
   s.summary      = "DVFloatingWindow->CocoaLumberjack bridge"
   s.homepage     = "https://github.com/dvor/DVFloatingLumberjack"
   s.license      = 'MIT'

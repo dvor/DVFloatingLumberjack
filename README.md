@@ -11,7 +11,7 @@ There are two possible methods to include DVFloatingWindow in your project:
     * Install the pod by running `pod install`
 
 2. Manually: 
-    * Get the [latest version](https://github.com/dvor/DVFloatingLumberjack/archive/0.2.zip)
+    * Get the [latest version](https://github.com/dvor/DVFloatingLumberjack/archive/0.2.1.zip)
     * Drag files from DVFLoatingLumberjack folder to your project (Check **Add to target** and **Copy items into destination group's folder** checkboxes)
 
 Initialize DVLumberjackLogger (perhaps in your AppDelegate file).

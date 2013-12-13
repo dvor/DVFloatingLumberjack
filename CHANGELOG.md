@@ -1,3 +1,9 @@
+## 0.2.1
+
+###### Bugfixes
+
+- Fixed usage of dispatch_queue_t on iOS 5.
+
 ## 0.2
 
 ###### Enhancements
@@ -6,7 +12,7 @@
 
 #### Note
 
- After update DVFloatingLumberjack will stop working because of introducing attachment to logLevels. By default it isn't attached to any loggers. To attach DVFloatingLumberjack to default logger (as it was before) please add following code:
+After update DVFloatingLumberjack will stop working because of introducing attachment to logLevels. By default it isn't attached to any loggers. To attach DVFloatingLumberjack to default logger (as it was before) please add following code:
 
 ```obj-c
 
